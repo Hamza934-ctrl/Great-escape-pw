@@ -1,0 +1,17 @@
+
+{
+  "name": "CleanZone",
+  "short_name": "CleanZone",
+  "start_url": "cleanzone-pwa.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3658/3658909.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
